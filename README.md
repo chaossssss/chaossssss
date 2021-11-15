@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+> 𝕷𝖎𝖋𝖊 𝖎𝖘 𝖇𝖚𝖙 𝖆 𝖘𝖕𝖆𝖓
 
 - 🔭 I’m currently working on Frontend developer
 - 🌱 I’m currently learning React
