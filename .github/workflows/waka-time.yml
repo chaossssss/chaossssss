@@ -12,6 +12,6 @@ jobs:
     steps:
       - uses: chaossssss/waka-readme@master
         with:
-          WAKATIME_API_KEY: aa63fcad-1267-4d24-870d-122fee124b58
-          GH_TOKEN: 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
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
           REPOSITORY: <username/username> # optional, By default, it will automatically use the repository who's executing the workflow.
