@@ -10,8 +10,8 @@ jobs:
     name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@master
+      - uses: chaossssss/waka-readme@master
         with:
-          WAKATIME_API_KEY: 'aa63fcad-1267-4d24-870d-122fee124b58'
-          GH_TOKEN: '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'
+          WAKATIME_API_KEY: aa63fcad-1267-4d24-870d-122fee124b58
+          GH_TOKEN: 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
           REPOSITORY: <username/username> # optional, By default, it will automatically use the repository who's executing the workflow.
