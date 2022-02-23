@@ -9,6 +9,7 @@
 - ⚡ Fun fact: None
 
 
+7 days programming time
 <!--START_SECTION:waka-->
 ```text
 Vue.js       22 hrs 6 mins   ██████████████████████▓░░   90.70 % 
