@@ -12,10 +12,8 @@
 7 days programming time
 <!--START_SECTION:waka-->
 ```text
-Vue.js       22 hrs 6 mins   ██████████████████████▓░░   90.70 % 
-JavaScript   2 hrs 6 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 % 
-Markdown     8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
-JSON         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+Vue.js       23 hrs 1 min    ██████████████████████▓░░   90.10 % 
+JavaScript   2 hrs 30 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
 ```
 <!--END_SECTION:waka-->
 
