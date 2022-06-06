@@ -1,8 +1,16 @@
 ### Hi there 👋
 
+Hey bro, please don't unfollow me. I want to have 100 followers.
+
+Thx.😘
+
+By chaossssss.
+
 > 𝕷𝖎𝖋𝖊 𝖎𝖘 𝖇𝖚𝖙 𝖆 𝖘𝖕𝖆𝖓
 
 - 🔭 I’m currently working on Frontend developer
+- 🏚  Base on Jiaxing
+- 🔨 Main Vue. See my coding Time
 - 🌱 I’m currently learning React
 - 📫 How to reach me: 1033729276@qq.com
 - 😄 Pronouns: Levi
