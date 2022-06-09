@@ -31,4 +31,10 @@ Other        12 mins         ▒░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 
+![2019 commits](https://i.bmp.ovh/imgs/2022/06/09/40ea8ef53dc6a071.png)
+
+![2020 commits](https://i.bmp.ovh/imgs/2022/06/09/3d3f42d583997994.png)
+
+![2021 commits](https://i.bmp.ovh/imgs/2022/06/09/be5c22a2f85ef63e.png)
+
 [![Levi's github stats](https://github-readme-stats.vercel.app/api?username=chaossssss)](https://github.com/anuraghazra/github-readme-stats)
