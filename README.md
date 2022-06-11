@@ -23,10 +23,10 @@ By chaossssss.
 
 <!--START_SECTION:waka-->
 ```text
-Vue.js       10 hrs 58 mins  █████████████████████▓░░░   86.89 % 
-Markdown     1 hr 1 min      ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 % 
-JavaScript   30 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
-Other        6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
+Vue.js       12 hrs 21 mins  ███████████████████▓░░░░░   79.02 % 
+JavaScript   1 hr 53 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.07 % 
+Markdown     1 hr 16 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 % 
+Other        6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
 ```
 <!--END_SECTION:waka-->
 
