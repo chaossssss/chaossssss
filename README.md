@@ -23,10 +23,7 @@ By chaossssss.
 
 <!--START_SECTION:waka-->
 ```text
-Vue.js       9 hrs 47 mins   █████████████████████▓░░░   86.88 % 
-JavaScript   1 hr 21 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.06 % 
-Markdown     4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
-Git Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
