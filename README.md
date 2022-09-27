@@ -23,7 +23,9 @@ By chaossssss.
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Vue.js       4 hrs 15 mins   ██████████████████████▒░░   89.77 % 
+JSON         17 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.26 % 
+JavaScript   9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
 ```
 <!--END_SECTION:waka-->
 
